@@ -1,1 +1,3 @@
 # AppBehaviorAnalyst
+Mobile applications have become an indispensable part of our daily lives, with millions of people using them every day for various purposes such as communication, entertainment and productivity. When the use of the Mobile apps continue to grow, according to behavioral analysts Mobile applications are becoming increasingly urgent. Applied behavior analyst mobile app is an expert in studying the behavior and interactions of users in mobile apps, with the aim of improving the experience user experience and engagement
+<img width="836" alt="image" src="https://www.credencys.com/wp-content/uploads/2019/11/Mobile-Payment-Apps.jpg">
